@@ -1,7 +1,7 @@
 ### Hi there, I'm Polina
 
 - 👨‍🎓 I’m currently looking for a frontend developer job
-- 🤟 I’d like to collaborate on **Web development of interesting and challenging projects**
+- 🤟 I'd like to collaborate on an exciting and challenging projects as a web developer
 
 ### 🢒 Contact me:
 
