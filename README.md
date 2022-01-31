@@ -2,11 +2,10 @@
 
 - 👨‍🎓 I’m currently looking for a frontend developer job
 - 🤟 I'd like to collaborate on an exciting and challenging projects as a web developer
-- [<img align="left" alt="polinaDudchenko | CV" width="22px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />My CV][website]
+- [<span>My CV</span><img align="left" alt="polinaDudchenko | CV" width="22px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
 
 ### 🢒 Contact me:
 
-[<img align="left" alt="polinaDudchenko | CV" width="22px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
 [<img align="left" alt="polinaDudchenko | Gmail" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
 [<img align="left" alt="polinaDudchenko | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 [<img align="left" alt="polinaDudchenko | Telegram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120" />][telegram]
