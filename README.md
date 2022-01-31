@@ -2,6 +2,7 @@
 
 - 👨‍🎓 I’m currently looking for a frontend developer job
 - 🤟 I'd like to collaborate on an exciting and challenging projects as a web developer
+- [<img align="left" alt="polinaDudchenko | CV" width="22px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
 
 ### 🢒 Contact me:
 
