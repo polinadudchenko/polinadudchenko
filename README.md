@@ -36,7 +36,7 @@
 <br />
 
 [website]: https://polinadudchenko.github.io/
-[linkedin]: https://www.linkedin.com/in/polina-dudchenko-08a0a998/
+[linkedin]: https://www.linkedin.com/in/polina-dudchenko/
 [telegram]: https://t.me/polinadudchenko
 [gmail]: mailto:pv.dudchenko@gmail.com
 
